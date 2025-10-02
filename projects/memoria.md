@@ -1,6 +1,16 @@
 # Privacy Policy for Memoria
 
-No data or personal information is collected by this app.
+No personal information is collected by this app. The only data it collects is:
+
+## Game Scores
+
+Your game scores are uploaded to Apple's Game Center to display on the global leaderboard. This includes:
+
+- Your scores
+- A unique Game Center identifier
+- The date and time of your scores
+
+This data is stored through Apple's Game Center service and is used only to show leaderboard rankings within Game Center and the app.
 
 ##### Contact
 
